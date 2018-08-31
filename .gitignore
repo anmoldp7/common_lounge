@@ -1,2 +1,3 @@
 .vscode/
 lounge_env/
+db.sqlite3
